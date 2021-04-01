@@ -14,3 +14,8 @@ span {
   background: red;
   border: 1px solid black;
 }
+
+.positioned {
+  position: static;
+  background: yellow;
+}
